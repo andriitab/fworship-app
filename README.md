@@ -1,2 +1,2 @@
 # fworship-app
-F.Woship Android Application
+F.Woship Android App
